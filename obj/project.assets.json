@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rassamaha\\Desktop\\GeekBrains\\C#\\FinalTest\\FinalTest.csproj",
+      "projectUniqueName": "C:\\Users\\Rassamaha\\Desktop\\FinalTest\\FinalTest.csproj",
       "projectName": "FinalTest",
-      "projectPath": "C:\\Users\\Rassamaha\\Desktop\\GeekBrains\\C#\\FinalTest\\FinalTest.csproj",
+      "projectPath": "C:\\Users\\Rassamaha\\Desktop\\FinalTest\\FinalTest.csproj",
       "packagesPath": "C:\\Users\\Rassamaha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rassamaha\\Desktop\\GeekBrains\\C#\\FinalTest\\obj\\",
+      "outputPath": "C:\\Users\\Rassamaha\\Desktop\\FinalTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rassamaha\\AppData\\Roaming\\NuGet\\NuGet.Config"
