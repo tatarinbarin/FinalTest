@@ -12,3 +12,8 @@ if(sizeArr <= 0)
     Console.WriteLine("Некорректный ввод!");
     return;
 }
+
+// Создание массивов
+string[] array = new string[sizeArr];
+string[] newArr = new string[array.Length];
+
