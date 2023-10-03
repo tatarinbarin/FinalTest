@@ -50,3 +50,11 @@ void EndArray(string[] arr1, string[] arr2)
         }
     }
 }
+
+FillArray(array);
+Console.Write("Первичный массив -> ");
+PrintArray(array);
+Console.WriteLine();
+EndArray(array, newArr);
+Console.Write("Конечный массив -> ");
+PrintArray(newArr);
