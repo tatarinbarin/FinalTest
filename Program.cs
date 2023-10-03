@@ -17,3 +17,14 @@ if(sizeArr <= 0)
 string[] array = new string[sizeArr];
 string[] newArr = new string[array.Length];
 
+// Заполнение массива
+void FillArray(string[] arr)
+{
+    Console.WriteLine("Введите элементы массива: ");
+    for (int i = 0; i < arr.Length; i++)
+    {
+        Console.Write($"Элемент № [{i + 1}] = ", i);
+        arr[i] = (Console.ReadLine()!);
+    }
+}
+
